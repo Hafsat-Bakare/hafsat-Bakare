@@ -1,6 +1,6 @@
 # Hi, I'm Hafsat Bakare👋
 
-I'm an Cybersecurity professional focused on Identity and Access management, SOC operations, and threat detection. Certified in SC-300 and CCNA Cybersecurity. Building hands-on projects with Microsoft Entra ID, Microsoft Sentinel, Microsoft Azure, and Wireshark. Passionate about cloud security, incident response, and continuous learning.
+I'm a Cybersecurity professional focused on Identity and Access management, SOC operations, and threat detection. Certified in SC-300 and CCNA Cybersecurity. Building hands-on projects with Microsoft Entra ID, Microsoft Sentinel, Microsoft Azure, and Wireshark. Passionate about cloud security, incident response, and continuous learning.
 
 # Currently focused on
 - Building IAM automation tools with PowerShell
