@@ -1,16 +1,25 @@
-## Hi there 👋
+```markdown
+# Hi, I'm Hafsat Bakare 👋
 
-<!--
-**Hafsat-Bakare/hafsat-Bakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Identity & Access Management Engineer | Cloud Security Professional
 
-Here are some ideas to get you started:
+Cybersecurity professional focused on Identity and Access management, SOC operations, and threat detection. Certified in SC-300 and CCNA Cybersecurity. Building hands-on projects with Microsoft Entra ID, Microsoft Sentinel, Microsoft Azure, and Wireshark. Passionate about cloud security, incident response, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Current Focus
+- Building IAM automation tools with PowerShell
+- Implementing Zero Trust security frameworks
+
+### 💼 Experience
+- Entra ID Identity Advisor at Sherweb
+- Microsoft 365 Technical Support Engineer and technical lead at Tek-Experts
+- 5+ years in M365 Support and Entra ID security
+
+### 🚀 Featured Projects
+*Coming soon - building my IAM automation portfolio!*
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/hafsat-bakare/
+
+### 📊 2026 Goals
+- [ ] Build 8 IAM automation projects
+```
